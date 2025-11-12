@@ -1,1 +1,2 @@
-# Trendora_analysis.Oyeroni.Ojevwe
+### Trendora Analysis
+![Header Image](image.png)
